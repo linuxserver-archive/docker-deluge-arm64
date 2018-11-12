@@ -90,6 +90,7 @@ Change the downloads location in the webui in Preferences->Downloads and use /do
 
 ## Versions
 
++ **11.10.18:** Rebase to ubuntu bionic.
 + **09.04.18:** update to libressl2.7-libssl.
 + **31.03.18:** Rebase to alpine edge. 
 + **19.12.17:** Rebase to alpine 3.7. 
